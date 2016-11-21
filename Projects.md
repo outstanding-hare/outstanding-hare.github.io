@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Projects
+permalink: /Projects/
 ---
 
 ## Divesh Kumar
