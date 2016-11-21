@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 
 ## Divesh Kumar
-C-305 Mansfield Street, New Haven CT \s\s
+C-305 Mansfield Street, New Haven CT </br>
 P: +1 203 843 8681  \s\s
 e: divesh.kumar@yale.edu \s\s
 
