@@ -10,7 +10,7 @@ title: Div's Website
 email: divesh.kumar@yale.edu
 description: > # this means to ignore newlines until "baseurl:"
  This is an experimental website that I am creating after having learnt some stuff in a course called Management of Software Development
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /blog "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: divesh
 linkedIn: linkedin.com/diveshkmr
