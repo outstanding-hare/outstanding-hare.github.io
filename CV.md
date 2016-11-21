@@ -40,3 +40,8 @@ C-305 Mansfield Street, New Haven CT | +1 203 843 8681 | divesh.kumar@yale.edu
 # Cypress Semiconductor Technology Pvt Ltd, Intern, Bengaluru, India, 2009
 * Created an online system for managing information on testing of Programmable System on Chip (PSoC) devices
 * Characterized PSoC devices on test bench before their market launch
+
+## Additional Information
+* Tour of Nilgiris Cyclist: Completed 550 miles of cycling in 8 days across Nilgiri mountain range in South West India
+* StartingBloc fellow; Certified Mountaineer; Cooking enthusiast
+
