@@ -16,10 +16,8 @@ e: divesh.kumar@yale.edu
 # Yale School of Management, MBA, 2017
 
 * Communications Leader - SOM Crew 
-
 * Research Associate - Yale Center for Customer Insights 
-
-Research Associate - Center for Business and Environment 
+* Research Associate - Center for Business and Environment 
 
 # Birla Institute of Technology and Science, Pilani, B.E(hons) Electrical and Electronics Engineering, 2010
 
