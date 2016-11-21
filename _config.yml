@@ -9,7 +9,7 @@
 title: Div's Website
 email: divesh.kumar@yale.edu
 description: > # this means to ignore newlines until "baseurl:"
- This is an experimental repository of my projects and thoughts at Yale. 
+ You are welcome to the experimental repository of my experiences and thoughts at Yale. I must credit the Jekyll community for this webpage's theme. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Divesh
