@@ -11,3 +11,7 @@ Trying out a new post today. * looking at lists.
 # Also trying heading
 
 ## also a heading
+
+
+![awesome image](http://www.herdofcats.ca/files/images/imposter.png)
+
