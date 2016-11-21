@@ -15,3 +15,4 @@ Trying out a new post today. * looking at lists.
 
 ![awesome image](http://www.herdofcats.ca/files/images/imposter.png)
 
+<style color="red"> whatever <style>
