@@ -15,5 +15,6 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Divesh
 github_username: LinkedIn
 
+
 # Build settings
 markdown: kramdown
