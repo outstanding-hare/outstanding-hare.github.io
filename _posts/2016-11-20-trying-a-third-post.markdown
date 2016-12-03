@@ -19,6 +19,6 @@ Trying out a new post today. * looking at lists.
 
 <iframe  width="480" height="360" src="https://www.youtube.com/watch?v=jeum1gciPzs" frameborder="1"> </iframe>
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
+[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]
 
 with a **youtube** video embedded
