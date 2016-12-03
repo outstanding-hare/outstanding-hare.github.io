@@ -20,6 +20,5 @@ Trying out a new post today. * looking at lists.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lwQyUUAzcOg" frameborder="1" allowfullscreen> </iframe>
 
-[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]
 
 with a **youtube** video embedded
