@@ -17,6 +17,6 @@ Trying out a new post today. * looking at lists.
 
 <span style="color:blue"> whatever <span>
 
-<iframe  title="YouTube video player" width="480" height="390" src="https://www.youtube.com/watch?v=jeum1gciPzs" frameborder="1" > </iframe>
+<iframe  title="YouTube video player" width="480" height="390" src="https://www.youtube.com/watch?v=jeum1gciPzs" frameborder="1"> </iframe>
 
 with a **youtube** video embedded
