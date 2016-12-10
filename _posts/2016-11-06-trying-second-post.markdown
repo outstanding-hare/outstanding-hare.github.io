@@ -5,9 +5,10 @@ date:   2016-11-06 21:30:27 -0500
 categories: jekyll update
 ---
 
+One must have a solid reasoning behind taking a loan upwards of $140,000, leave a job with an organization one loves, move to a new country away from one's family and enroll in a two year MBA program.
+
 ![Question image](https://media.giphy.com/media/SufoKsersIO2Y/giphy.gif)
 
-One must have a solid reasoning behind taking a loan upwards of $140,000, leave a job with an organization one loves, move to a new country away from one's family and enroll in a two year MBA program.
 
 In my case, it was a combination of inspiration, fear of failure by staying in my comfort zone and willingness to seek new experiences that propelled me to come to Yale School of Management to get my MBA. To eleaborate:
 
