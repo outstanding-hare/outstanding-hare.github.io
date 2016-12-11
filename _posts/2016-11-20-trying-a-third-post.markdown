@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "3rd latest post!"
 date:   2016-11-20 23:30:27 -0500
 categories: jekyll update

@@ -9,6 +9,8 @@ One must have a solid reasoning behind taking a loan upwards of $140,000, leave 
 
 <center><img src="http://i.giphy.com/cPKWZB2aaB3rO.gif"></center>
 
+
+
 In my case, it was a combination of inspiration, fear of failure by staying in my comfort zone and willingness to seek new experiences that propelled me to come to Yale School of Management to get my MBA. To elaborate:
 
 1. Being a part of the founding team at STIR Education, I got to work closely with the CEO, Sharath Jeevan. He was leading STIR to grow at tremendous pace while keeping the organization lean and focused. Sharath mentored me and inspired me to think about business schools very seriously by sharing a lot of his experiences of going to INSEAD and how his business school experience has helped him become a successful entrepreneur. If not for Sharath, I may not have been as fascinated about business schools as I was. 
