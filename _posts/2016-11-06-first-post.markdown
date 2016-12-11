@@ -10,7 +10,7 @@ One must have a solid reasoning behind taking a loan upwards of $140,000, leave 
 
 <center><img src="http://i.giphy.com/cPKWZB2aaB3rO.gif"></center>
 
-
+&nbsp;
 
 In my case, it was a combination of inspiration, fear of failure by staying in my comfort zone and willingness to seek new experiences that propelled me to come to Yale School of Management to get my MBA. To elaborate:
 
