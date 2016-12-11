@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Why Yale?"
+date:   2016-11-07 21:30:27 -0500
+categories: jekyll update
+---
+
+> Destiny has two ways of crushing us - by refusing our wishes and by fulfilling them.
+
+ 
