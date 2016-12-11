@@ -5,21 +5,4 @@ title:  "Meeting Tim Wollaeger"
 date:   2016-12-10 23:30:27 -0500
 categories: jekyll update
 ---
-whatever Trying out a new post today. * looking at lists.  
-
-> sublists etc. 
-
-# Also trying heading
-
-## also a heading
-
-
-![awesome image](http://www.herdofcats.ca/files/images/imposter.png)
-
-<span style="color:blue"> whatever <span>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lwQyUUAzcOg" frameborder="1" allowfullscreen> </iframe>
-
-
-with a **youtube** video embedded
+Yesterday, I got the opportunity to have lunch with Mr. Timothy J Wollaeger. 
