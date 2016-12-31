@@ -30,7 +30,7 @@ For the last few years, everyone has been focused on the growth and not profitab
 
 &nbsp;
 
-<center> ****** </center>
+<center><span style="color:#e54c2d"> ****** </span></center>
 
 &nbsp;
 
