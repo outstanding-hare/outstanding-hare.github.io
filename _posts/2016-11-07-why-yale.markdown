@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 
-<img src = "http://www.businessresearchguide.com/wp-content/uploads/2014/07/Yale-School-of-Management-Evans-Hall-1024x866.jpg">
+<img src = "http://cdn.stacyblackman.com/wp/wp-content/uploads/Yale-SOM-Evans-Hall-734x428.png">
 
 &nbsp;
 
