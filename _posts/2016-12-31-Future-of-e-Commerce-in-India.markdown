@@ -36,7 +36,7 @@ For the last few years, everyone has been focused on the growth and not profitab
 
 Some resources to learn more about e-Commerce both in India and across the globe.
 
-1.	[Digital Retail in 2020: Rewriting the Rules, A Google-A.T.Kearney Study | May 2016](https://www.atkearney.in/documents/4773014/8192273/Digital+Retail+in+2020%E2%80%93Rewriting+the+Rules.pdf/392551c2-7b43-4666-938e-2168a6bd7f6d)
+1.	[Digital Retail in 2020: Rewriting the Rules, A Google-A.T.Kearney Study, May 2016](https://www.atkearney.in/documents/4773014/8192273/Digital+Retail+in+2020%E2%80%93Rewriting+the+Rules.pdf/392551c2-7b43-4666-938e-2168a6bd7f6d)
 
 2.	[e-Commerce in India: A Game Changer for the Economy, by CII and Deloitte](http://italiaindia.com/images/uploads/pdf/april-2016-e-commerce-in-india.pdf)
 
