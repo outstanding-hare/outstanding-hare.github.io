@@ -7,16 +7,16 @@ categories: jekyll update
 ---
 
 
-<center><img src = "https://s28.postimg.org/4z5bxifp9/Capture8.png"></center>
-
-&nbsp;
-
 
 > The future depends on what we do in the present. 
 
 &nbsp;
 
 A couple of weeks ago, I had a recruiting related call with a large investor who has significant stakes in the Indian e-Commerce space and in order to come across as someone who is familiar with the space, I did some research on who is doing what in India. I ended up speaking with a couple of my friends engaged in e-Commerce companies and read a few analyst reports on the future of e-Commerce in India. In this post, I have tried to summarize some of the key things that I have understood and have also shared a few good resources to read/view if you are interested in the space. 
+
+<center><img src = "https://s28.postimg.org/4z5bxifp9/Capture8.png"></center>
+
+&nbsp;
 
 <span style="color:#e54c2d">**So, what has happened so far?**</span> Less than 1% of total retail in India was captured by e-Commerce in India in 2015 which was about 14-15B USD. It’s a trillion dollar market and e-Commerce is expected to be about 55 B by 2018. The last number is open to contest as different agencies and analyst have their own expectations, however, what seems certain is that e-Commerce will gain a higher percentage of India’s organized retail and may capture the unorganized market as well in future. That said, everyone has been able to see this as a great opportunity and thus, many large and small players have been fighting for the market. This includes, [Flipkart](http://www.flipkart.com/) that was the first mover in the market, [Amazon](http://www.amazon.in/) the big daddy of e-Commerce, [Snapdeal](https://www.snapdeal.com/) that started off with a deal and coupon website but forayed into an e-Commerce platform, [PayTM](https://paytm.com/) which opened shop as an e-Wallet and subsequently moved into retail , [Shopclues](http://www.shopclues.com/) the online flea market and many other vertical players such as [Zivame](http://zivame.com/), [Urban Ladder](https://www.urbanladder.com/), [Grofers](https://grofers.com/), [Indian roots](http://www.indianroots.com/), [hopscotch](https://www.hopscotch.in/) and many more. 
 
