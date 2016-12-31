@@ -8,11 +8,11 @@ categories: jekyll update
 
 
 
-> The future depends on what we do in the present. 
+A couple of weeks ago, I had a recruiting related call with a large investor who has significant stakes in the Indian e-Commerce space and in order to come across as someone who is familiar with the space, I did some research on who is doing what in India. I ended up speaking with a couple of my friends engaged in e-Commerce companies and read a few analyst reports on the future of e-Commerce in India. In this post, I have tried to summarize some of the key things that I have understood and have also shared a few good resources to read/view if you are interested in the space. 
+
+<center><span style="color:#e54c2d"> *The future depends on what we do in the present.* </span></center>
 
 &nbsp;
-
-A couple of weeks ago, I had a recruiting related call with a large investor who has significant stakes in the Indian e-Commerce space and in order to come across as someone who is familiar with the space, I did some research on who is doing what in India. I ended up speaking with a couple of my friends engaged in e-Commerce companies and read a few analyst reports on the future of e-Commerce in India. In this post, I have tried to summarize some of the key things that I have understood and have also shared a few good resources to read/view if you are interested in the space. 
 
 <center><img src = "https://s28.postimg.org/4z5bxifp9/Capture8.png"></center>
 
