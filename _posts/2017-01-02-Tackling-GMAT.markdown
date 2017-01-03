@@ -6,7 +6,7 @@ date:   2017-01-01 21:30:27 -0500
 categories: jekyll update
 ---
 <span style="color:#e54c2d">Why do I need to have a high GMAT score to get into a top B-School? </span>
-I wouldn’t say that it is a naïve question, however, in order to answer that let’s first understand what do Business Schools mean when they say that we look at an application as a whole and GMAT score is just a part of it. 
+I wouldn’t say that it is a naïve question, however, in order to answer that let’s first understand what do Business Schools mean when they say that they look at an application as a whole and GMAT score is just a part of it. 
 
 Schools are true, they look at your work experience, personal experiences outside work, recommendations, undergrad transcripts and what not. They want to say that if you have an outstanding experience that would bring something unique to the class then they may overlook a lower GMAT score. For example, if you have been a trained classical singer/dancer, have performed with the best in your art, have played under 19 squash/tennis as world’s No. 9 player, climbed Mt. Everest, did an expedition to Antarctica or have been to 70 countries and have worked across 4 continents before applying to the school, then it may suffice to have a low GMAT score. You can very clearly see that getting a 730+ score would be a lot easier than any of those previously mentioned achievements. Also, one needs to understand that GMAT scores are taken into consideration to rank the schools as well. Thus schools prefer to have students with high GMATs so that the school average remains high. Now, if I have convinced that you need to have a great score in addition to your stellar work experience, I will try and share a little about preparing for GMAT. 
 
